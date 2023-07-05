@@ -32,7 +32,7 @@ Users should be able to:
 ![](design\Screenshot (10).png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/RIDOULL/product-preview-card-component-main.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
