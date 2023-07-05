@@ -1,0 +1,79 @@
+body{
+  background-color: hsl(30, 38%, 92%);
+  margin-top: 100px;
+  width: 1440px;
+}
+
+button{
+      background-color: darkcyan;
+      color: whitesmoke;
+      font-family: Fraunces;
+      width: 180px;
+      height: 30px;
+      border-radius: 5px;
+      border-color: darkcyan;
+     line-height: 5px;
+     font-size: 11px;
+     margin-bottom: 10px;
+     margin-left: 5px;
+    }
+    .text{
+      color: darkcyan;
+      font-family: Fraunces;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      word-spacing: 10px;
+    }
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    
+.top-container{
+  position: absolute;
+  left: 200px;
+}
+span{
+  text-decoration: line-through;
+  font-size: 11px;
+}
+
+.dark{
+  color: hsl(228, 12%, 48%);
+  }
+
+h6{
+  font-family: Fraunces;
+  font-weight: 500;
+  letter-spacing: 3px;
+  
+}
+
+h1{
+line-height: 28px;
+font-family:Fraunces;
+font-weight: 500px;
+}
+p{
+  font-family: Montserrat;
+  font-size: 11px;
+}
+
+img{
+  width: 200px;
+  height: 350px;
+}
+
+.bottom-container{
+  background-color: hsl(0, 0%, 100%);
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 200px;
+  height: 350px;
+  border: 0px solid;
+  margin-top: 0px;
+  display: inline-block;
+  position: absolute;
+  left: 400px;
+}
+    
+   
